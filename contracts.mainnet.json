@@ -7,6 +7,7 @@
 		"liqLit": "0x03C6F0Ca0363652398abfb08d154F114e61c4Ad8",
 		"crvDepositor": "0xB96Bce10480d2a8eb2995Ee4f04a70d48997856a",
 		"litDepositorHelper": "0x97a2585Ddb121db8E9a3B6575E302F9c610AF08c",
-		"prelaunchRewardsPool": "0x5c988c4E1F3cf1CA871A54Af3a1DcB5FeF2612Fc"
+		"prelaunchRewardsPool": "0x5c988c4E1F3cf1CA871A54Af3a1DcB5FeF2612Fc",
+		"zapInEth": "0x81a663c4bdD4b5cB395E4025E464049470Dd2b48"
 	}
 }
